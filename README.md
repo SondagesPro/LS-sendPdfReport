@@ -3,6 +3,8 @@ sendPdfReport
 
 Use question text to create a report and send it by email.
 
+This plugin was replaced by [pdfReport](https://gitlab.com/SondagesPro/ExportAndStats/pdfReport). No update of this plugin is planned.
+
 ## Installation
 
 ### Via GIT
